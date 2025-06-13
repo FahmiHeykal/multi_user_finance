@@ -25,28 +25,11 @@ A simple, clean, and secure RESTful API for tracking income and expense transact
 
 ---
 
-## Project Structure
-multi_user_finance/
-├── app/
-│ ├── api/
-│ │ └── routes/
-│ ├── db/
-│ ├── models/
-│ ├── schemas/
-│ └── main.py
-├── .env
-├── requirements.txt
-└── README.md
-
-
-
----
-
 ## Setup Instructions
 
 1. **Clone the Repository**
 
-   git clone https://github.com/yourusername/multi_user_finance.git  
+   git clone https://github.com/FahmiHeykal/multi_user_finance.git  
    cd multi_user_finance
 
 2. **Install Dependencies**
